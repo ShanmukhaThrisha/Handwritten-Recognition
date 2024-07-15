@@ -1,1 +1,1 @@
-# Handwritten-Recognition
+# Handwritten-Recognition OCR OpenVINO
